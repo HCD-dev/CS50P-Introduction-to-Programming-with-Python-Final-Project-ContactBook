@@ -1,5 +1,7 @@
 # Contact Book
 
+# Hüseyin Çağatay DOĞRUYOL
+
 #### Video Demo: <https://www.youtube.com/watch?v=pqsDkoCWRTk>
 
 #### Description:
@@ -41,5 +43,3 @@ To use this contact book:
 1. Install dependencies with `pip`:
    ```bash
    pip install -r requirements.txt
-
-#Hüseyin Çağatay DOĞRUYOL
